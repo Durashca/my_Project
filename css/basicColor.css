@@ -1,0 +1,4 @@
+/* оранжевый*/
+.nav-menu .mainmenu ul li:hover>a {
+    color: #e4381C;
+}

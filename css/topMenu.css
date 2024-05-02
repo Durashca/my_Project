@@ -1,0 +1,28 @@
+.header-section {
+    padding-top: 40px;
+    position: absolute;
+    left: 0;
+    top: 0;
+
+    width: 100%;
+    z-index: 99;
+    padding-left: 60px;
+    padding-right: 60px;
+    /* задний фон*/
+    background-image: url('../img/eveningMenu.png'); /* Specify the path to your background image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.nav-menu {
+    text-align: center;
+}
